@@ -23,7 +23,7 @@ body{
 /* body end */
 
 /* text start */
-a{ 
+a{
   text-decoration:none;
   color:#CC667D;
 }
@@ -121,7 +121,7 @@ a img{
 
 @media screen and (max-width: 640px) {
  /* text start */
-  a{ 
+  a{
     font-weight:bold;
   }
   /* text end */
