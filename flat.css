@@ -1,9 +1,18 @@
+@font-face {
+    font-family: cabin;
+    src: url(Cabin-Regular.otf);
+}
+@font-face {
+    font-family: cabin;
+    src: url(Cabin-Bold.otf);
+    font-weight: bold;
+}
 /* body start */
 body{
   background-color: white;
   color:#4C3D41;
   text-align: center;
-  font-family: arial,sans-serif;
+  font-family: cabin,arial,sans-serif;
   font-size: 14px;
   margin: 0;
 }
