@@ -1,6 +1,15 @@
-<h1>Projects</h1>
+<h1>Work</h1>
+<span>Places I have worked and projects I have taken part in.</span><br/><br/>
 <?php
 	$projects=[
+		[
+			'name'=>'JackThreads',
+			'thumb'=>'',
+			'desc'=>'A men\'s style and clothing website where I currently work as a web application developer, focusing primarily on internal tools.',
+			'links'=>[
+				'Visit'=>'//jackthreads.com',
+			],
+		],
 		[
 			'name'=>'Hackmaster 3000',
 			'thumb'=>'',
@@ -13,7 +22,7 @@
 		[
 			'name'=>'Leopard Strike',
 			'thumb'=>'',
-			'desc'=>'A chrome plugin project developed in 36 hours with two teammates at MHacks 2013. The plugin takes any website the user is on, and turns it into a multiplayer game with anybody else currently on the website, using elements of the website as obstacles in the game. Developed using Javascript with JQuery, Node.js, and Socket.io.',
+			'desc'=>'A chrome plugin project developed in 36 hoursat MHacks 2013. The plugin takes any website the user is on, and turns it into a multiplayer game with anybody else currently on the website, using elements of the website as obstacles in the game. Developed using Javascript with JQuery, Node.js, and Socket.io with two other teammates.',
 			'links'=>[
 				'Git'=>'https://www.github.com/vgaviria/Leopard_Strike',
 			],
@@ -23,7 +32,7 @@
 			'thumb'=>'',
 			'desc'=>'Note: No longer online.<br/> A service exchange website similar to LinkedIn and Craigslist, for which I developed the front and back end by heavily modifying and adding onto an existing Joomla 2.5 website. Developed using PHP, SQL, Javascript, jQuery, AJAX, HTML, and CSS. I worked with one other developer for one month, then was the only developer.',
 			'links'=>[
-				'View'=>'http://www.mongasso.com',
+				// 'View'=>'http://www.mongasso.com',
 			]
 		],
 		[ 

@@ -1,5 +1,5 @@
-<h1>Concepts</h1>
-These are small personal projects which are mostly unfinished, but which I think demonstrate something cool.
+<h1>Projects</h1>
+<span>Personal projects and concepts which are mostly unfinished, but which I think demonstrate something cool.</span><br/><br/>
 <?php
   $projects=[
     [ 

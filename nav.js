@@ -25,10 +25,6 @@ $(document).ready(function(){
       insert($('a[name='+state.page+']'),state.page)
     }
   });
-  $(window).scroll(function(){
-    $("#header").css('left',-$(window).scrollLeft());
-    $("#divider").css('left',-$(window).scrollLeft());
-  });
   var ajaxLoader = new Image();
   ajaxLoader.src="/ajax-loader.gif";
 });
