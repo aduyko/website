@@ -12,7 +12,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 		<link rel="stylesheet" type="text/css" href="/flat.css"/>
-		<script src="/jquery/jquery-1.11.3.min.js"></script>
+		<script src="/JQuery/jquery-1.11.3.min.js"></script>
 		<script src="/nav.js"></script>
 		<script>
 			var view_path = "<?= $view ?>";
@@ -29,7 +29,7 @@
 				<a href="/projects" name="projects">
 					<img id="propic" src="/me.png" alt="A photo of me!" />
 				</a>
-				<div id="name">
+				<div id="name" class="heading">
 					<a href="/projects" name = "projects" class="<?= $view==='projects'?'selected':'link' ?>">
 						Andriy Duyko
 					</a>

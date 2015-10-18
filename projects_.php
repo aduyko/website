@@ -59,7 +59,7 @@
 				</div>
 				<div class="desc">
 					<div class="title">
-						<span class="name">
+						<span class="heading">
 							<?php echo $name; ?>
 						</span>
 						<span class="links">

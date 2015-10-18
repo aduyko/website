@@ -7,6 +7,15 @@
     src: url(Cabin-Bold.otf);
     font-weight: bold;
 }
+@font-face {
+    font-family: roboto;
+    src: url(RobotoSlab-Regular.ttf);
+}
+@font-face {
+    font-family: roboto;
+    src: url(RobotoSlab-Bold.ttf);
+    font-weight: bold;
+}
 /* body start */
 body{
   background-color: white;
@@ -55,7 +64,7 @@ a img{
 }
 #name{
   font-size:20px;
-  font-weight:bolder;
+  font-weight:bold;
 }
 #nav{
   width:70%;
@@ -91,13 +100,13 @@ a img{
 }
 #content{
   width:600px;
-  text-align:justify;
+  text-align:left;
   padding:35px 35px;
 }
 .desc .title{
   margin-bottom:10px;
 }
-.desc .name {
+.desc .heading {
   font-size:16px;
   font-weight:bold;
   padding-right:15px;
@@ -116,6 +125,9 @@ a img{
 }
 .loader {
   padding-top:20px;
+}
+h1,.heading {
+  font-family:roboto,cabin,arial,sans-serif;
 }
 /* =helper::end */
 
@@ -149,7 +161,6 @@ a img{
     display:block;
     width:100%;
     font-size:24px;
-    font-weight:bolder;
   }
   #nav{
     width:90%;
@@ -203,7 +214,7 @@ a img{
   .desc .title{
     margin-bottom:10px;
   }
-  .desc .name {
+  .desc .heading {
     font-size:16px;
     font-weight:bold;
     padding-right:15px;
@@ -228,7 +239,6 @@ a img{
     width:auto;
     min-width:auto;
     max-width:auto;
-    text-align:justify;
     padding:35px 25px;
     padding-right:60px;
   }
