@@ -1,0 +1,38 @@
+<header id="header">
+  <a href="{{ site.baseurl }}/" name="projects">
+    <img id="propic" src="{{ "me.png" | prepend: site.imagesurl | prepend: site.baseurl }}" alt="A photo of me!" />
+  </a>
+  <div id="name" class="heading">
+    <a href="{{ site.baseurl }}/" name = "projects" class="link">
+      Andriy Duyko
+    </a>
+  </div>
+  {% include spacer.html %}
+  <div id="nav">
+    <ul>
+      {% for link in site.data.links %}
+        <li>
+          {% if page.title == link.name %}
+            <a name="{{ link.text }}" href="{{ link.url | prepend: site.baseurl }}" class="selected">
+          {% else %}
+            <a name="{{ link.text }}" href="{{ link.url | prepend: site.baseurl }}" class="link">
+          {% endif %}
+          {{ link.text }}
+          </a> 
+        </li>
+      {% endfor %}
+    </ul>
+    <ul id="contact">
+      <li>
+        <a href="mailto:{{ site.email }}">
+          {{ site.email }}
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/{{ site.github_username }}" class="external" target="_blank">
+           github
+        </a>
+      </li>
+    </ul>
+  </div>
+</header>

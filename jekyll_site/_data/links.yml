@@ -1,0 +1,9 @@
+- name: Work
+  text: Work
+  url: /work/
+- name: Projects
+  text: Projects
+  url: /projects/
+- name: About Me
+  text: About
+  url: /about/
