@@ -1,7 +1,9 @@
+// the var "timestamp" is defined in the default template by jekyll
+// pages is hardcoded until I add a blog
 var pages = {'Projects': false, 'Work': false, 'About': false};
 $(document).ready(function(){
   Object.keys(pages).forEach(function(key){
-    $("#content_"+key).load("/"+key+"/index.html #content",function(e){
+    $("#content_"+key).load("/"+key+"/index.html?"+timestamp+" #content",function(e){
       pages[key]=true;
     });
   });
