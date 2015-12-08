@@ -10,7 +10,10 @@ $(document).ready(function(){
   $("#nav").find('a').click(function(){
     var $this = $(this);
     var target = $this.prop('name');
-    if(pages[target]===false) {
+    if(pages[target]===undefined) {
+      // blogs shouldnt get loaded
+      return true;
+    } else if(pages[target]===false) {
       $("#content").html('<img class="loader" src="ajax-loader.gif" alt="Loading!" />');
       checkLoaded($this,target);
     } else {
@@ -39,7 +42,6 @@ function checkLoaded(source,target){
   }
 }
 function insert(source,target){
-	console.log(source,target);
   $("#content").parent().html($("#content_"+target).html());
   $("a.selected").removeClass();
   source.addClass('selected');

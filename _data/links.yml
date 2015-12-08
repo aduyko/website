@@ -4,6 +4,9 @@
 - name: Projects
   text: Projects
   url: /projects/
+- name: Blog
+  text: Blog
+  url: /2015/12/07/quotes
 - name: About Me
   text: About
   url: /about/
