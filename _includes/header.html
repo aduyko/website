@@ -12,10 +12,10 @@
     <ul>
       {% for link in site.data.links %}
         <li>
-          {% if page.title == link.name %}
-            <a name="{{ link.text }}" href="{{ link.url | prepend: site.baseurl }}" class="selected">
+          {% if page.title == link.title %}
+            <a name="{{ link.name }}" href="{{ link.url | prepend: site.baseurl }}" class="selected">
           {% else %}
-            <a name="{{ link.text }}" href="{{ link.url | prepend: site.baseurl }}" class="link">
+            <a name="{{ link.name }}" href="{{ link.url | prepend: site.baseurl }}" class="link">
           {% endif %}
           {{ link.text }}
           </a> 

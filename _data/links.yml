@@ -1,12 +1,16 @@
-- name: Work
-  text: Work
-  url: /work/
-- name: Projects
-  text: Projects
-  url: /projects/
-- name: Blog
-  text: Blog
-  url: /2015/12/07/quotes
-- name: About Me
-  text: About
-  url: /about/
+- name:  work
+  text:  Work
+  title: Work
+  url:   /work/
+- name:  projects
+  text:  Projects
+  title: Projects
+  url:   /projects/
+- name:  blog
+  text:  Blog
+  title: Blog
+  url:   /2015/12/08/quotes
+- name:  about
+  text:  About
+  title: About Me
+  url:   /about/
