@@ -14,9 +14,9 @@ permalink: /work/
     </div>
     <div class="desc">
       <div class="title">
-        <span class="heading">
+        <h1>
           {{ work.name }}
-        </span>
+        </h1>
         <span class="links">
           {% for link in work.links %}
             <a href="{{ link[1] }}" target="_blank">

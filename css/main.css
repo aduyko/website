@@ -1,30 +1,32 @@
 @font-face {
-    font-family: cabin;
-    src: url(/assets/fonts/Cabin-Regular.otf);
-}
-@font-face {
-    font-family: cabin;
-    src: url(/assets/fonts/Cabin-Bold.otf);
-    font-weight: bold;
+    font-family: roboto;
+    src: url(/assets/fonts/Roboto-Light.ttf);
 }
 @font-face {
     font-family: roboto;
+    src: url(/assets/fonts/Roboto-LightItalic.ttf);
+    font-style: italic;
+}
+@font-face {
+    font-family: roboto-slab;
     src: url(/assets/fonts/RobotoSlab-Regular.ttf);
 }
 @font-face {
-    font-family: roboto;
+    font-family: roboto-slab;
     src: url(/assets/fonts/RobotoSlab-Bold.ttf);
     font-weight: bold;
 }
 /* body start */
 body{
   background-color: white;
-  color: #4C3D41;
+  color: #2D2427;
   text-align: center;
-  font-family: cabin,arial,sans-serif;
-  font-size: 14px;
+  font-family: roboto,arial,sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 24px;
   margin: 0;
-  letter-spacing: .2px;
 }
 #body-wrapper{
   max-width: 1000px;
@@ -37,14 +39,27 @@ a{
   text-decoration: none;
   color: #CC667D;
 }
-h1, a:hover, .selected, #name a{
+h1, h2, .heading, a:hover, .selected, #name a{
   color: #994C5E;
 }
 #contact a{
-  color: #4C3D41;
+  color: #2D2427;
 }
 a img{
   border: none;
+}
+h1,h2,.heading {
+  font-family: roboto-slab,roboto,arial,sans-serif;
+  font-size: 34px;
+  line-height: 40px;
+  font-weight: 400;
+}
+h2 {
+  font-size: 28px;
+  line-height: 30px;
+}
+blockquote {
+  font-style: italic;
 }
 /* text end */
 
@@ -58,13 +73,14 @@ a img{
   float: left;
   position: fixed;
   overflow: auto;
+  font-family: roboto-slab,roboto,arial,sans-serif;
 }
 #propic{
   padding-top: 60px;
   width: 160px;
 }
 #name{
-  font-size: 22px;
+  font-size: 26px;
   font-weight: bold;
 }
 #nav{
@@ -80,7 +96,6 @@ a img{
 #nav ul li{
   list-style-type: none;
   margin: 0 3%;
-  font-weight: bold;
 }
 #divider{
   margin-left: 220px;
@@ -101,18 +116,18 @@ a img{
 #content{
   width: 600px;
   text-align: left;
-  padding: 35px 35px;
+  padding: 35px 50px;
 }
 .desc .title{
   margin-bottom: 10px;
 }
-.desc .heading {
-  font-size: 16px;
-  font-weight: bold;
+.title > h1 {
+  display:inline-block;
   padding-right: 15px;
+  margin-bottom: 12px;
 }
 .project {
-  padding-top: 25px;
+  padding-bottom: 14px;
 }
 /* content end */
 
@@ -126,15 +141,11 @@ a img{
 .loader {
   padding-top: 20px;
 }
-h1,.heading {
-  font-family: roboto,cabin,arial,sans-serif;
-}
 /* =helper::end */
 
 @media screen and (max-width: 640px) {
  /* text start */
   a{
-    font-weight: bold;
   }
   /* text end */
 
@@ -160,7 +171,7 @@ h1,.heading {
   #name{
     display: block;
     width: 100%;
-    font-size: 24px;
+    font-size: 26px;
   }
   #nav{
     width: 90%;
@@ -183,7 +194,6 @@ h1,.heading {
     text-align: left;
     list-style-type: none;
     margin: 0;
-    font-weight: bold;
   }
   #nav ul#contact li{
     float: none;
@@ -214,9 +224,7 @@ h1,.heading {
   .desc .title{
     margin-bottom: 10px;
   }
-  .desc .heading {
-    font-size: 16px;
-    font-weight: bold;
+  .desc > h1 {
     padding-right: 15px;
   }
   .project: first-of-type {

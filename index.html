@@ -1,30 +1,14 @@
 ---
 layout: page
-title: Work
-description: Places I have worked and projects I have taken part in
+title: Hi
+description:
 ---
-
-{% for work in site.data.works %}
-  <div class="project">
-    <div class="thumb">
-      {% if work.thumb? %}
-        <img src="{{ site.baseurl }}/images/{{ work.name }}/{{ work.thumb }}" />
-      {% endif %}
-    </div>
-    <div class="desc">
-      <div class="title">
-        <span class="heading">
-          {{ work.name }}
-        </span>
-        <span class="links">
-          {% for link in work.links %}
-            <a href="{{ link[1] }}" target="_blank">
-              {{ link[0] }}&emsp;
-            </a>
-          {% endfor %}
-        </span>
-      </div>
-      {{ work.desc }}
-    </div>
-  </div>
-{% endfor %}
+<div class="about">
+	<p>I'm Andriy Duyko, a New York based developer/devops engineer currently leading DevOps and Automated Testing at
+	<a href="https://www.groupninemedia.com" target="_blank">Group Nine Media</a>.</p>
+	<p>I love to read, watch movies, paint, and play guitar.</p>
+	<p>
+	  If you have any questions or comments shoot me an e-mail at
+	  <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+	</p>
+</div>

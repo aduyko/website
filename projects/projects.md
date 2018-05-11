@@ -14,9 +14,9 @@ permalink: /projects/
     </div>
     <div class="desc">
       <div class="title">
-        <span class="heading">
+        <h1>
           {{ project.name }}
-        </span>
+        </h1>
         <span class="links">
           {% for link in project.links %}
             <a href="{{ link[1] }}" target="_blank">
