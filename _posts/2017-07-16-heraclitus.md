@@ -23,7 +23,7 @@ Conventional groupings of the Fragments begin with the Fragments about knowledge
 > although they tell themselves they know.
 > Heraclitus 5
 
-This resonates with more contemporary critical theory of media, with mass culture wanting to find commonly accepted ideas and seeking "information" with no interest in understanding. Judging is impossible because understanding was never the goal, the goal is being able to tell yourself and signal to others that you "know", and that your information led you to the "correct" opinion. Understanding cannot be born from a gobbledygook stream of nonsense. It's cool to see that this hasn't changed in 2500 years of cynicism, echoing Kierkegaard's claim in the epilogue of Fear and Loathing that the individuals in every generation of humanity have to re-learn the same lessons as previous generations.
+This resonates with more contemporary critical theory of media, with mass culture wanting to find commonly accepted ideas and seeking "information" with no interest in understanding. Judging is impossible because understanding was never the goal, the goal is being able to tell yourself and signal to others that you "know", and that your information led you to the "correct" opinion. Understanding cannot be born from a gobbledygook stream of nonsense. It's cool to see that this hasn't changed in 2500 years of cynicism, echoing Kierkegaard's claim in the epilogue of _Fear and Trembling_ that the individuals in every generation of humanity have to re-learn the same lessons as previous generations.
 
 > Whoever cannot seek
 > the unforeseen sees nothing,
@@ -202,6 +202,7 @@ Individualism and focusing on yourself doesn't accomplish anything meaningful. O
 > The habit of knowledge
 > is not human but divine.
 > Heraclitus 96
+
 Knowledge as opposed to information, as discussed for fragments 5 and 14. There's possibly something to be said for the word choice in saying "the habit of" instead of just "knowledge", possibly tying into fragment 86 and the succumbing of a person to relaxation and unfulfilled duty.
 
 > Yearning hurts,
