@@ -12,26 +12,22 @@
     <ul>
       {% for link in site.data.links %}
         <li>
-          {% if page.title == link.title %}
+          {% if page.nav == link.name %}
             <a name="{{ link.name }}" href="{{ link.url | prepend: site.baseurl }}" class="selected">
           {% else %}
             <a name="{{ link.name }}" href="{{ link.url | prepend: site.baseurl }}" class="link">
           {% endif %}
-          {{ link.text }}
+          {{ link.name | capitalize }}
           </a> 
         </li>
       {% endfor %}
     </ul>
     <ul id="contact">
       <li>
-        <a href="mailto:{{ site.email }}">
-          {{ site.email }}
-        </a>
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
       </li>
       <li>
-        <a href="https://github.com/{{ site.github_username }}" class="external" target="_blank">
-           github
-        </a>
+        <a href="https://github.com/{{ site.github_username }}" class="external" target="_blank">github</a>
       </li>
     </ul>
   </div>

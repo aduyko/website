@@ -1,16 +1,8 @@
-- name:  work
-  text:  Work
-  title: Work
-  url:   /work/
-- name:  projects
-  text:  Projects
-  title: Projects
-  url:   /projects/
 - name:  blog
-  text:  Blog
-  title: Blog
-  url:   /2017/07/17/heraclitus
+  url:   /
+- name:  archive
+  url:   /archive/
+- name:  projects
+  url:   /projects/
 - name:  about
-  text:  About
-  title: About Me
   url:   /about/

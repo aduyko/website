@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heraclitus"
-date: 2017-07-16 20:32:00 -0500
+date: 2017-07-16T20:32:20Z
 tags: literature books greeks philosophy
 ---
 

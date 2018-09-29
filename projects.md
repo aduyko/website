@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Projects
-description: Personal projects and concepts which are mostly unfinished, but which I think demonstrate something cool
+description: Projects and concepts I've worked on, which are mostly unfinished
+nav: projects
 permalink: /projects/
 ---
 
