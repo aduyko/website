@@ -8,12 +8,10 @@ permalink: /
 {% for post in site.posts %}
   <div class="project">
     <div class="desc">
-      <div class="title">
-        <h1>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-          <div class="posted-on">Posted: {{ post.date | date_to_long_string }}</div>
-        </h1>
-      </div>
+      <h1>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <div class="posted-on">Posted: {{ post.date | date_to_long_string }}</div>
+      </h1>
       {% include spacer.html %}
       <!-- thanks to https://gist.github.com/mikeygee/2626538 -->
       {{ post.content | split:'<!--break-->' | first }}
@@ -24,4 +22,8 @@ permalink: /
       {% endif %}
     </div>
   </div>
+  {% if forloop.last == false %}
+  ---
+  {% include spacer.html %}
+  {% endif %}
 {% endfor %}
