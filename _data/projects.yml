@@ -1,3 +1,10 @@
+- name: aduyko.com
+  thumb:
+  desc: >
+    This website! Statically generated using Jekyll.
+  links:
+    Git: "https://www.github.com/aduyko/website"
+
 - name: Hackmaster 3000
   thumb:
   desc: > 

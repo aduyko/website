@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-description: Projects and concepts I've worked on, which are mostly unfinished
 nav: projects
 permalink: /projects/
 ---
@@ -13,20 +12,24 @@ permalink: /projects/
         <img src="{{ site.baseurl }}/images/{{ project.name }}/{{ project.thumb }}" />
       {% endif %}
     </div>
+    <div class="title">
+      <span class="inline-title">
+        {{ project.name }}
+      </span>
+      <span class="links">
+        {% for link in project.links %}
+          <a href="{{ link[1] }}" target="_blank">
+            {{ link[0] }}&emsp;
+          </a>
+        {% endfor %}
+      </span>
+    </div>
+    <hr />
     <div class="desc">
-      <div class="title">
-        <h1>
-          {{ project.name }}
-        </h1>
-        <span class="links">
-          {% for link in project.links %}
-            <a href="{{ link[1] }}" target="_blank">
-              {{ link[0] }}&emsp;
-            </a>
-          {% endfor %}
-        </span>
-      </div>
       {{ project.desc }}
     </div>
+    {% if forloop.last == false %}
+      {% include spacer.html %}
+    {% endif %}
   </div>
 {% endfor %}
