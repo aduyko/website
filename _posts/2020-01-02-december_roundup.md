@@ -6,7 +6,9 @@ tags: personal
 ---
 
 This would be easier if I wrote these down as I finished them instead of trying to remember everything all at once.
+
 <!--break-->
+
 ## Books
 
 ### Strange Pilgrims - Garcia Marquez
