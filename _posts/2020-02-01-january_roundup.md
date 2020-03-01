@@ -6,7 +6,7 @@ tags: personal
 ---
 
 I tried to start writing these as I finished things halfway through the month.
-
+<!--break-->
 ## Books
 
 ### Exposed - Jean-Phillipe Blondel

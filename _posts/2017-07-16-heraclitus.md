@@ -14,7 +14,7 @@ Heraclitus was an important pre-socratic thinker. He seems closer to Eastern (li
 He expressed his ideas poetically and many of them center around balance/moderation and the cyclical nature of life. I can't help but compare him to Lao Tzu's Tao Te Ching, both in their sarcastic tone as well as their nebulous approach to thought and being. Heraclitus seems more focused on the individual as a thinking being compared to Tzu's "Master" as somebody who has transcended thought and become an active being.
 
 Compared to Tzu's "Master", though, there is no clear idea of what Heraclitus wanted his teachings to accomplish. Today, he seems more like an academic curiosity than a source of wisdom. The fragments don't really explain their reasoning, and there's no central theme binding them together. The fragments are interesting to compare to the thoughts of philosophers to come, but they don't lead to any clear, unified philosophical system.
-
+<!--break-->
 ## Fragments
 Conventional groupings of the Fragments begin with the Fragments about knowledge and wisdom. 
 

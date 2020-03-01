@@ -6,7 +6,7 @@ tags: personal
 ---
 
 It seems a little embarassing to me that I've had this website, where I set up some templates for it to function as a blog, and I haven't taken advantage of that at all. I'm sure a big part of it was that the thought of running a blog seemed a lot more fun than the reality of it - what do you write about? For who? Why? Originally, I wanted to use this space to keep track of books I'd read and movies I'd watched and my thoughts about them. I think it would be nice to actually start doing that, and now's a good time as any.
-
+<!--break-->
 ## Books
 
 ### Sentimental Education - Gustave Flaubert
