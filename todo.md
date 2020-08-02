@@ -1,0 +1,2 @@
+- Add music thoughts index page (?)
+- Add book thoughts index page (?)
