@@ -1,13 +1,15 @@
 # Site settings
 title: Andriy Duyko
 email: aduyko@gmail.com
-description: Andriy Duyko Web Developer Extraordinaire's Personal Site
+description: Andriy Duyko's Personal Site
 baseurl: "" # the subpath of your site, e.g. /blog
 fontsurl: "/assets/fonts/"
 imagesurl: "/assets/images/"
 projectsurl: "/projects/"
-url: "http://aduyko.com" # the base hostname & protocol for your site
+url: "https://www.aduyko.com" # the base hostname & protocol for your site
 github_username: aduyko
 
 # Build settings
 markdown: kramdown
+sass:
+  style: compressed

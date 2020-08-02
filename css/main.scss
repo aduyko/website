@@ -1,20 +1,27 @@
+---
+---
+
 @font-face {
     font-family: roboto;
     src: url(/assets/fonts/Roboto-Light.ttf);
+    font-display: swap;
 }
 @font-face {
     font-family: roboto;
     src: url(/assets/fonts/Roboto-LightItalic.ttf);
     font-style: italic;
+    font-display: swap;
 }
 @font-face {
     font-family: roboto-slab;
     src: url(/assets/fonts/RobotoSlab-Regular.ttf);
+    font-display: swap;
 }
 @font-face {
     font-family: roboto-slab;
     src: url(/assets/fonts/RobotoSlab-Bold.ttf);
     font-weight: bold;
+    font-display: swap;
 }
 /* body start */
 body{
@@ -215,8 +222,8 @@ hr {
     margin: auto;
     width: auto;
   }
-  #nav: before,
-  #nav: after {
+  #nav:before,
+  #nav:after {
     content: "";
     display: table;
     clear: both;
