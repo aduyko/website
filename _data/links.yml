@@ -2,6 +2,8 @@
   url:   /
 - name:  archive
   url:   /archive/
+- name:  reviews
+  url:   /reviews/
 - name:  projects
   url:   /projects/
 - name:  about

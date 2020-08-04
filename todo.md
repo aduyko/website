@@ -4,7 +4,7 @@
 
 # Optimizations
 - Page title should reflect page
-- Add service worker for offline nonsense
 
 # I dunno
+- Add service worker for offline nonsense
 - Web app manifest ???

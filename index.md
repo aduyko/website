@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: blank
 title: Andriy Duyko's Blog
 nav: blog
 permalink: /
