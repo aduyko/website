@@ -7,6 +7,11 @@ tags: personal, roundup
 
 I've been listening to a LOT of emo the past couple of months with the idea of making a tier list but I haven't been documenting any of that effort and also haven't really wanted to take the dive and do the work. I'll try to start writing about those albums here but I think now I have to listen to them again, even the ones I didn't like, and I'm not looking forward to that.
 
+## Movies
+
+### Night Is Short, Walk On Girl
+This movie was a blast to watch! It's really high energy, fast paced, and all over the place. The first half is super engaging and fun and goofy, the second half begins to lean a bit more heavily into plot and I think the resolution is kind of undeserved. The male protagonist is unnecessary but it's a sweet movie with a lot of heart. The art is beautiful and Masaaki Yuasa is super talented.
+
 ## Music
 
 ### Niiice. - Never Better
