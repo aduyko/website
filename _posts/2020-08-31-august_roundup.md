@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "August 2020 Roundup"
-date: 2020-08-02T15:45:00Z
+date: 2020-08-31T15:45:00Z
 tags: personal, roundup
 ---
 

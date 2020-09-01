@@ -2,9 +2,9 @@
   url:   /
 - name:  emo
   url:   /emo/
-- name:  archive
-  url:   /archive/
 - name:  reviews
   url:   /reviews/
+- name:  archive
+  url:   /archive/
 - name:  about
   url:   /about/
