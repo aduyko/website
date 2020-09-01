@@ -25,6 +25,16 @@ permalink: /reviews/
 {% endfor %}
 {% include spacer.html %}
 
+<div class="inline-title">Podcasts</div>
+---
+{% assign podcasts = site.data.podcasts| sort: 'title' %}
+{% for podcast in podcasts %}
+<div class="post-link">
+  <a href="{{ podcast.url | prepend: site.baseurl }}#podcasts">{% if podcast.liked %}[*] {% endif %}{{ podcast.title }}</a>
+</div>
+{% endfor %}
+{% include spacer.html %}
+
 <div class="inline-title">Music</div>
 ---
 {% assign albums = site.data.music | sort: 'author' %}

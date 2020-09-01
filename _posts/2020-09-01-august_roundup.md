@@ -6,11 +6,41 @@ tags: personal, roundup
 ---
 
 I've been listening to a LOT of emo the past couple of months with the idea of making a tier list but I haven't been documenting any of that effort and also haven't really wanted to take the dive and do the work. I'll try to start writing about those albums here but I think now I have to listen to them again, even the ones I didn't like, and I'm not looking forward to that.
+I also decided to start writing down podcasts, although a lot of them don't really have a clear start or end point. Not really sure how I am going to handle this in an archival sense but it's a start. I also thought about adding video games but that didn't feel right so I didn't.
+
+## Books
+
+### Boulevard No.81 - Various (Literary Journal)
+This book has the most horrifying art on the cover that I have ever seen. It's offputting! A horrible demon child. The journal itself is great - I really like literary journals and collections that have a lot of authors. Thomas Cooper's Bloody Mary really moved me, but on the whole I liked all of the short stories. The poems were a bit more hit or miss but also generally really good and resonant! I loved the interview but I thought the symposium on overrated authors was kind of boring with a lot of "I love this writer but they also had some flaws" type responses, except for the two (!!!) people who went in on Kate Chopin's The Awakening. It just seemed kind of unnecessary - I think it was a fun idea but the answers didn't really reveal anything interesting, besides for the two guys who really went in on Kate Chopin. They freaking HATE The Awakening.
+I really like the poem it ends on:
+> Untitled by Brian Simoneau
+>
+> Life passes at the speed of grief:  
+> Every morning another sun,  
+> Every night a different darkness.
+
+### Sir Gawain and the Green Knight - Brian Stone (translator)
+Epic poems are tough, old english epic poems are tough. I'm not sure that there was much more that I got out of this by reading the entire thing than I did from reading the preface. It was taxing to read because the meter of each line was very unclear to me but there is definitely some sort of rhythm going on there. There's a bunch of alliteration, and the last few lines of each stanza are slightly differently formatted and rhyme? The preface mentioned that there was some massaging of syllables from old english to modern english and I wonder how much of an impact that had, and what it might have sounded like in old english. In any case, it felt like there were little road bumps very regularly as I was reading it and it wasn't a pleasant experience. A lot of the poem feels like it would have been better if it felt more... majestic. I don't know how to describe it. The back and forths between Gawain and Morgan feel like they were supposed to be these epic trades of wit, but the prose didn't feel like it was up to that standard. The hunt scenes felt the same, like they were trying to draw this beautiful tapestry with many detailed little vignettes, but they didn't quite get there. Maybe part of it is just the age of the material and how accustomed I am to modern writing.
+
+It was also interesting to see how many youtube videos there are of people dissecting this poem and teaching it in school. I would have never guessed how popular this story is in education.
+
+Also also, I am kind of struck by how strong the characterization is of Gawain! I have a very clear idea of his temperament and character coming out of a pretty short poem. What a gallant fellow.
 
 ## Movies
 
 ### Night Is Short, Walk On Girl
 This movie was a blast to watch! It's really high energy, fast paced, and all over the place. The first half is super engaging and fun and goofy, the second half begins to lean a bit more heavily into plot and I think the resolution is kind of undeserved. The male protagonist is unnecessary but it's a sweet movie with a lot of heart. The art is beautiful and Masaaki Yuasa is super talented.
+
+## Podcasts
+
+### Blowback
+A really outstanding look back at the history of the US in Iraq and the utterly monstrous behavior of the US government with regards to Iraq. I'm not normally too interested in history but this is a super engaging listen, and it's compact - there are 10 hour long episodes covering a whole bunch of facets of the US's involvement in Iraq.
+
+### Episode One
+Hits really hard when it hits but has some slower episodes too. I used to listen to a lot of comedy bang bang and I think this does so much better on the comedy/improv front.
+
+### The Relentless Picnic
+This podcast is very difficult to describe. The production is really slick and they do something interesting in each episode, and the new "season" centered around Walden has been great. I guess you could say it's another podcast featuring dudes talking about stuff but it's so much more than that. There are multiple moments from this podcast that have meaningfully affected me and how I think about things, and I appreciate how much they hate reddit and NPR.
 
 ## Music
 
@@ -70,3 +100,36 @@ This is like a demo album? I like it, it's a return to their roots, but it's har
 
 ### Joyce Manor - Of All Things I Will Soon Grow Tired
 I like this album but not as much as S/T or Never Hungover Again. It's nice to see how their sound evolved from this album to the next and how they returned to this kind of unrefined sound with their latest rarities album. This album is a little unfocused I think with the exception of some really good tracks like If I Needed You There. They definitely find that focus/punchyness in S/T. I like the cover of Video Killed the Radio Star, but I'm generally a sucker for covers.
+
+### Origami Angel - Somewhere City
+Unbelievably fun album. 24 Hr Drive-Thru is an absolute jam, the album catches hold of you and doesn't let go until it ends. Perfect high energy noodly emo.
+
+### Tricot - T H E
+This is a really cool sounding album that does tons of interesting and engaging stuff. Lots of really original sounds and a really strong emotional string connecting the songs together. Like their other albums I've listened to, I feel like I'm missing a lot by not knowing Japanese and not being able to understand the lyrics, but it's just such good music.
+
+### Evergreen - Evergreen
+Not for me. Not into the guitars, drums, or vocals. Seems like it would be up my alley given their influence on emo but I really don't like this.
+
+### Pour Me Another - Pour Pure
+Very cool that this band is from Minsk and sing in English. They have some really cool ideas, Juliet is a great song, but I feel like they grate on me a little - overal a very solid record and I'm looking forward to their future releases.
+
+### Steve Hiett - Down On The Road By The Beach
+I'm glad I listened to this. Definitely sounds way ahead of its time. Ambient grooves that will absolutely make you think of the beach. My favorite track was Sleep Walk but it's a song I love no matter who covers it.
+
+### Alex G - Trick
+One of my favorite albums! On relisten, it seemd a lot more like Elliot Smith than I'd ever really considered. I actually don't think a lot of the individual tracks are great, but it comes together really well and the really good tracks are really good. My favorites are: Kute, Mary, Adam, Sarah.
+
+### SeeYouSpaceCowboy - Songs for the Firing Squad
+The Locust were a favorite band of mine in high school and I listened to them a bunch, but I dunno, most powerviolence/grindcore/sass/sasscore stuff kind of blurs together for me. It's really difficult to single anything about the music out as something that I like. Great for creating a lot of mental distress very quickly but that's not really something I'm looking for very often.
+
+### Navio Forge - As We Quietly Burn A Hole Into
+Early 90's emotive hardcore! Somewhere between Minor Threat and Slint? They're better when they're less punky and more post-y like on the track "Weaponizing" but I dunno, I don't think they're that interesting. The vocals don't really do it for me and the guitar/drums don't get me there either.
+
+### Fifteen - Swain's First Bike Ride
+I don't think I listen to a lot of punk rock so it's nice to hear something closer to the roots. The production is kind of weirdly clean (maybe because I'm listening to the Remaster?) but the music itself seems really sloppy. Despite all this, it's a fun and light and easy to listen to album! Very 90's sounding, almost poppy in a lot of places (Definition reminds me a lot of like, Hey Sandy by Polaris). Very cool.
+
+### Fifteen - Extra Medium Kickball Star
+This sounds a lot more modern and conventionally mixed than Swain's First Bike Ride. It reminds me a bit of Weezer and Green Day. A lot less unique sounding production than Swain's First Bike Ride, but a bunch of solid punk songs that all sound interesting and do unique stuff. The subject matter of a lot of the songs is heavy too! Very raw.
+
+### Marietta - As It Were
+This album is so good that I want to cry. The first three tracks is one of the strongest album openings I've ever heard, and the entire album is just unbelievably solid midwest emo/revival. Incredible band, incredible album.

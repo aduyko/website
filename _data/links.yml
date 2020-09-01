@@ -1,5 +1,7 @@
 - name:  blog
   url:   /
+- name:  emo
+  url:   /emo/
 - name:  archive
   url:   /archive/
 - name:  reviews
