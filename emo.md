@@ -31,7 +31,6 @@ F: Reserved for music that I think is poisonous to listen to
 
 ## A
 <hr>
-- Bright Eyes
 - Cap'n Jazz
 - Cursive
 - Don Martin 3
