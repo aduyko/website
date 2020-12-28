@@ -16,18 +16,18 @@ Bands are alphabetical within a tier
 Tiers are:  
 S: "This is incredible" has crossed my mind while listening to these bands or they have otherwise moved me in some way  
 A: I like these bands a lot  
-B: I think these bands are fine, or I think they're good but not lined up with my tastes  
+B: I think these bands are fine but don't stand out, or I think they're good but not lined up with my tastes  
 C: I don't like these bands  
 F: Reserved for music that I think is poisonous to listen to  
 
 ## S
 <hr>
 - Breakwater
+- Bright Eyes
 - Burial Etiquette
 - Funeral Diner
 - Joyce Manor
 - SPORT
-- Weezer **
 
 ## A
 <hr>
@@ -35,6 +35,7 @@ F: Reserved for music that I think is poisonous to listen to
 - Cursive
 - Don Martin 3
 - Eldritch Anisette
+- Glass Beach
 - Glocca Morra
 - Heroin
 - Inside Voices **
@@ -44,50 +45,59 @@ F: Reserved for music that I think is poisonous to listen to
 - Marietta
 - Motion City Soundtrack
 - My Chemical Romance
+- Niiice.
 - nouns
 - Origami Angel
 - Taking Back Sunday
+- Violetear
 
 ## B
 <hr>
 - ...Who Calls So Loud
-- Alkaline Trio
-- Blink-182 ** 
+- Blowout **
+- Camping in Alaska
+- Coheed and Cambria **
 - Common Sage
+- Dads
 - Desaparecidos
 - Dogleg
 - Elephant Jake
 - envy
 - Fifteen
-- Niiice.
+- Medoed
 - Panic! At the Disco **
 - Pet Symmetry
+- Policy of Three
 - Pour Me Another
 - Robo Pumpkin
-- The Blood Brothers
+- Touche Amore
 
 ## C
 <hr>
 - American Football
 - Decay
 - Evergreen
+- Hot Mulligan
 - Il Mare di Ross
 - Navio Forge
 - Papayer
 - Rites of Spring
 - Sympathy Card
+- The Promise Ring
 - The Starting Line
+- You Blew It!
 
 ## F
 <hr>
 - A Great Big Pile of Leaves
 - Oolong
+- Snowing
 
 # Notes
-Weezer - Just Pinkerton, and I think it's very sad that Rivers Cuomo started writing music like a robot after people didn't like Pinkerton when it came out  
 Inside Voices - This band rule and would be an easy S except I think their lyrics are dumb  
-Blink-182 - Just their S/T, they're one of my favorite bands but they're a pop punk band  
 Panic! At The Disco - Their debut release is really really good but I can't condone Brendon Urie's musical direction afterwards  
+Coheed and Cambria - Just The Second State Turbine Blade - I think their later releases aren't very emo and are more proggy, and they are much better as a prog band than as an emo band.  
+Blowout - I want to call this band indie rock. It's a tough call.
 
 # Listening List
 I'm particularly interested in anything that has a * but there are bands I'm interested in that I forgot to add a * to.
@@ -112,12 +122,10 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Anything is Everything
 - Armor for Sleep
 - Asthenia (JP)
-- At The Drive In
 - Balance and Composure
 - Battalion of Saints
 - Beefeater
 - Bicycle Inn
-- Blowout * 
 - Blue Depth
 - Boilermaker
 - Bombastic Dream Pussy
@@ -126,10 +134,10 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Braid
 - Brand New
 - Brandston
-- Bright Eyes
 - Carly Cosgrove
 - Cash Cash
 - Castevet
+- Ceres
 - Charmer
 - Chess Boxing
 - Chinese Football
@@ -140,7 +148,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - City of Caterpillar
 - Clikatat Ikatowi
 - Cling to Youth
-- Coheed and Cambria
 - Cold Room Heady
 - Copeland
 - Crash of Rhinos
@@ -148,7 +155,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - CSTVT
 - Current
 - Daddy's Hands
-- Dads
 - Dag Nasty
 - Daphne Loves Derby
 - Dashboard Confessional
@@ -167,6 +173,7 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Everyone Everywhere
 - Fall Out Boy
 - Far
+- Fiddlehead
 - Finch
 - fish narc
 - Forests
@@ -181,10 +188,7 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Funeral For a Friend
 - Further Seems Forever
 - Garden Variety
-- Ghosts and Vodka
-- Glass Beach
 - Gleemer
-- Go Radio
 - GOMMA
 - Gospel
 - Grade
@@ -198,11 +202,11 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Hoover
 - Hop Along
 - Hot Cross
-- Hot Mulligan
 - Hot Rod Circuit
 - Hotknives
 - I Hate Myself
 - I Hate Sex
+- I Love Your Lifestyle
 - Ignition
 - Indian Summer * 
 - Indigo Moire
@@ -215,6 +219,7 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Jejune
 - Jeromes Dream
 - Jets To Brazil
+- Joan of Arc
 - JR Ewing
 - Julia
 - Just Friends
@@ -233,10 +238,10 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Lions
 - Litterbug
 - Living War Room
-- Loma Prieta
 - Los Campesinos!
 - Lost Ground
 - Lungfish
+- Macseal
 - Make Believe
 - Mallard
 - Mat Kerekes
@@ -281,7 +286,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Piri Reis
 - Pity Sex * 
 - Plain White T's
-- Policy of Three
 - Pool Kids
 - Portraits of Past
 - Previous Love
@@ -301,7 +305,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Say Anything
 - Scary Kids Scaring Kids
 - Scoliosis Backbrace * 
-- Second Story Window
 - Secret Stuff
 - Senses Fail
 - Setsuko
@@ -315,11 +318,11 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Sleep Soundtrack
 - Sleepy Dog
 - Small Brown Bike
-- Snowing
 - Something Corporate
 - Sonic Sea Turtles
 - Sorority Noise
 - Spitboy
+- Sports
 - Spraynard
 - Staircase
 - Sterling Says
@@ -356,7 +359,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - The Little Explorer
 - The Movielife
 - The New Amsterdams
-- The Promise Ring
 - The Red Jumpsuit Apparatus
 - The Shivering
 - The Spill Canvas
@@ -366,6 +368,7 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - The Van Pelt
 - The White Octave
 - The World Is A Beautiful Place & I Am No Longer Afraid To Die
+- This Summer
 - Thursday
 - Tibetan Pop Stars
 - Tigers Jaw
@@ -373,24 +376,42 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Time Spent Driving
 - Title Fight
 - Tommy Boys
-- Touche Amore
 - Turnover
 - twenty one pilots
 - Underoath
 - Usurp Synapse
 - Waving
 - We Are The Union
+- White Lung
 - Wow, Owls!
 - Yaphet Kotto * 
-- You Blew It!
 - You Me at Six
 - YOUTHCARE
 
-# Worth Mentioning
+# Honorable Mentions
 
-I don't think these bands make sense to put in this ranking
+Emo tangential bands that often get lumped in with emo or were otherwise influential on the genre but I don't buy being on this list
 
-- 17° Below (pop punk)
-- SeeYouSpaceCowboy (too sass-y)
-- Soulside (not emo, later stuff seems just post-hardcore)
+- Soulside
+- Weezer
+
+# Other Mentions
+
+I don't think these bands make sense to put in this ranking - I don't think they're emo  
+Stars are for bands I haven't listened to much of but moved here after a cursory listen
+
+- 17° Below
+- Alkaline Trio
+- Blink-182
+- PUP
+- SeeYouSpaceCowboy
+- The Blood Brothers
+- Loma Prieta *
+- Second Story Window * 
+- At The Drive In
+- Go Radio
+- Ghosts and Vodka
+- Goalkeeper
+- Three Days Grace
+
 </div>
