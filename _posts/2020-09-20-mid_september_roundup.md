@@ -49,6 +49,8 @@ I'm not sure how many times you can watch this same movie before you get tired o
 
 It's an entertaining movie and a fun watch, but is ultimately unfulfilling, preferring self-indulgence to substance.
 
+Edit a few months later: I think I didn't give this movie a fair shot. Thinking about it as a movie about growing up it works way better. I take for granted that every character is an adult, living the life and making the decisions an adult would, but this movie is about a kid going through puberty. Nothing makes sense and everything you thought you knew suddenly changes. Who wouldn't want to run away from all these outside pressures?
+
 ## Music
 
 ### Marietta - Summer Death

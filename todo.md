@@ -8,6 +8,14 @@
   - I'm pretty sure this is doable but requires like. querying by date, ew
 
 # Essays
-- Bright Eyes (I dunno though, after that second album I listened to)
 - Dino Jr (What it means to be a rock and roller, j mascis as the embodiment, dave grohl as a poser)
-- Music where singers sound like they are in pain (screaming, david bazan, phil elverum, pop music?, grouper)
+- peanut butter servings
+- 100 gecs sincerity, love of music, vice interview
+- hypochondria
+- good breathing
+- parents chasing their kids who are on scooters down the street
+- comicsgate
+- washing meat
+- pat smear wikipedia nirvana talk
+- the iportance of dental care to romance
+- do you ever lift up your head while walking outside and feel two inches shorter

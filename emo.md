@@ -25,76 +25,105 @@ F: Reserved for music that I think is poisonous to listen to
 - Breakwater
 - Bright Eyes
 - Burial Etiquette
-- Funeral Diner
 - Joyce Manor
+- Marietta
 - SPORT
+- Violetear
 
 ## A
 <hr>
-- Cap'n Jazz
 - Cursive
+- Dads
 - Don Martin 3
 - Eldritch Anisette
+- Funeral Diner
 - Glass Beach
 - Glocca Morra
 - Heroin
-- Inside Voices **
+- Inside Voices
 - Into It. Over It.
+- Jeff Rosenstock
 - Jimmy Eat World
-- Knope
-- Marietta
 - Motion City Soundtrack
 - My Chemical Romance
-- Niiice.
+- niiice.
 - nouns
 - Origami Angel
+- Small Brown Bike
+- Sonic Sea Turtles
 - Taking Back Sunday
-- Violetear
+- Yaphet Kotto
 
 ## B
 <hr>
 - ...Who Calls So Loud
+- Anything is Everything
+- Backbrace
 - Blowout **
+- Braid
+- Camp Trash
 - Camping in Alaska
+- Cap'n Jazz
+- Chinese Football
 - Coheed and Cambria **
 - Common Sage
-- Dads
 - Desaparecidos
 - Dogleg
 - Elephant Jake
 - envy
 - Fifteen
+- Free Throw
+- Grade
+- Heart to Gold
+- I Hate Sex
+- Indian Summer
+- Knope
+- Lemuria
 - Medoed
 - Panic! At the Disco **
 - Pet Symmetry
 - Policy of Three
 - Pour Me Another
+- PUP
 - Robo Pumpkin
+- Rookie Card
+- Spraynard
+- Sunny Day Real Estate
+- Ted Nguyent
+- The Early November
 - Touche Amore
 
 ## C
 <hr>
 - American Football
+- Bird Bone
 - Decay
 - Evergreen
+- Franklin
+- Funeral for a Friend
+- Guitar Fight from Fooly Cooly
 - Hot Mulligan
 - Il Mare di Ross
 - Navio Forge
 - Papayer
+- Pianos Become the Teeth
+- Pictures of Vernon
 - Rites of Spring
 - Sympathy Card
+- Texas Is The Reason
 - The Promise Ring
 - The Starting Line
+- Time Spent Driving
 - You Blew It!
 
 ## F
 <hr>
 - A Great Big Pile of Leaves
+- Michael Cera Palin
 - Oolong
 - Snowing
 
 # Notes
-Inside Voices - This band rule and would be an easy S except I think their lyrics are dumb  
 Panic! At The Disco - Their debut release is really really good but I can't condone Brendon Urie's musical direction afterwards  
 Coheed and Cambria - Just The Second State Turbine Blade - I think their later releases aren't very emo and are more proggy, and they are much better as a prog band than as an emo band.  
 Blowout - I want to call this band indie rock. It's a tough call.
@@ -119,8 +148,7 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - And You Will Know Us By the Trail of Dead
 - Angel Hair
 - Antioch Arrow
-- Anything is Everything
-- Armor for Sleep
+- Armor for Sleep -
 - Asthenia (JP)
 - Balance and Composure
 - Battalion of Saints
@@ -131,7 +159,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Bombastic Dream Pussy
 - Born Without Bones
 - Boys Life
-- Braid
 - Brand New
 - Brandston
 - Carly Cosgrove
@@ -140,7 +167,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Ceres
 - Charmer
 - Chess Boxing
-- Chinese Football
 - Chisel * 
 - Christie Front Drive
 - Circle Takes The Square
@@ -155,7 +181,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - CSTVT
 - Current
 - Daddy's Hands
-- Dag Nasty
 - Daphne Loves Derby
 - Dashboard Confessional
 - Death Cab for Cutie
@@ -165,50 +190,47 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Discount
 - Dominic
 - Drive Like Jehu
+- Driveways
 - Elemantra
 - Elliott
 - Embrace
 - empire! empire! (i was a lonely estate)
 - Ethel Meserve
 - Everyone Everywhere
+- Fakeholder
 - Fall Out Boy
 - Far
 - Fiddlehead
 - Finch
 - fish narc
+- Flight Patterns
 - Forests
 - foronceinmylife...
 - Four Hundred Years
 - Foxing
 - Frank Turner
-- Franklin
-- Free Throw
+- frankie and his fingers
 - From First to Last
 - Fuel
-- Funeral For a Friend
 - Further Seems Forever
 - Garden Variety
 - Gleemer
 - GOMMA
 - Gospel
-- Grade
-- Gray Matter
 - Grumpster
-- Guitar Fight From Fooly Cooly * 
 - Halos for Martyrs
 - Have Mercy
 - Hawthorne Heights
 - Hey Mercedes
+- Home is Where
 - Hoover
 - Hop Along
 - Hot Cross
 - Hot Rod Circuit
 - Hotknives
 - I Hate Myself
-- I Hate Sex
 - I Love Your Lifestyle
 - Ignition
-- Indian Summer * 
 - Indigo Moire
 - Ink & Dagger
 - iwrotehaikus
@@ -220,7 +242,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Jeromes Dream
 - Jets To Brazil
 - Joan of Arc
-- JR Ewing
 - Julia
 - Just Friends
 - Karate
@@ -230,8 +251,8 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Komuso * 
 - kudaranai1nichi
 - La Dispute
+- Lakeside Bird
 - Latterman
-- Lemuria
 - Lentic Waters
 - Lifetime
 - Lil Peep
@@ -244,11 +265,13 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Macseal
 - Make Believe
 - Mallard
+- Marschak
 - Mat Kerekes
 - Mayday Parade
 - mewithoutYou
 - Midtown
 - Mighty Ships
+- milesmorales
 - Mineral
 - Minor Acts of Cannibalism
 - Minus the Bear
@@ -257,8 +280,7 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Mom Jeans.
 - Moss Icon * 
 - Never Shout Never
-- New Found Glory
-- Nexus Six * 
+- New Found Glory * 
 - Northstar
 - Not Rebecca
 - Nuvolascura
@@ -279,8 +301,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Penfold
 - Petal
 - Photo Fire
-- Pianos Become the Teeth
-- Pictures of Vernon
 - Piebald
 - Pinegrove
 - Piri Reis
@@ -289,14 +309,16 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Pool Kids
 - Portraits of Past
 - Previous Love
+- Prince Daddy & The Hyena
 - Punch
 - Pyramids
 - Rainer Maria
+- Rasputin's Secret Police
 - rawrXD
 - Reggie and the Full Effect
 - Relient K
 - Retirement Party
-- Right Through
+- reveries
 - Riley!
 - Saetia
 - Samiam
@@ -304,7 +326,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Saves The Day
 - Say Anything
 - Scary Kids Scaring Kids
-- Scoliosis Backbrace * 
 - Secret Stuff
 - Senses Fail
 - Setsuko
@@ -313,23 +334,20 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Shotmaker * 
 - Sign Language
 - Silverstein
+- Sincere Engineer
 - Sinking
 - Slaughter Beach, Dog
 - Sleep Soundtrack
 - Sleepy Dog
-- Small Brown Bike
 - Something Corporate
-- Sonic Sea Turtles
 - Sorority Noise
 - Spitboy
 - Sports
-- Spraynard
 - Staircase
-- Sterling Says
 - Still Life
 - Story of the Year
 - Straylight Run
-- Sunny Day Real Estate
+- summer 2000
 - Superchunk
 - Swearin'
 - Swing Kids
@@ -337,7 +355,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Tatakae
 - Tekaru
 - Ten Grand
-- Texas Is The Reason
 - The Academy Is...
 - The Anniversary
 - The Appleseed Cast
@@ -348,7 +365,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - The Death of Anna Karina
 - The Diggs
 - The Dismemberment Plan
-- The Early November
 - The Faith
 - The Get Up Kids
 - The Hated
@@ -373,20 +389,23 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Tibetan Pop Stars
 - Tigers Jaw
 - Tigers!
-- Time Spent Driving
 - Title Fight
 - Tommy Boys
 - Turnover
 - twenty one pilots
 - Underoath
 - Usurp Synapse
+- Veresk
 - Waving
 - We Are The Union
 - White Lung
+- Witch Hunt
+- worst party ever
 - Wow, Owls!
-- Yaphet Kotto * 
 - You Me at Six
 - YOUTHCARE
+- Пекинский Велосипед
+- даша онзероад
 
 # Honorable Mentions
 
@@ -397,21 +416,32 @@ Emo tangential bands that often get lumped in with emo or were otherwise influen
 
 # Other Mentions
 
-I don't think these bands make sense to put in this ranking - I don't think they're emo  
+Bands that only have one song
+
+- Right Through
+
+Bands that don't have anything online
+
+- Nexus Six
+
+Bands that don't fall within my definition of emo
 Stars are for bands I haven't listened to much of but moved here after a cursory listen
 
 - 17° Below
 - Alkaline Trio
+- At The Drive In
 - Blink-182
-- PUP
-- SeeYouSpaceCowboy
-- The Blood Brothers
+- Dag Nasty
+- Ghosts and Vodka
+- Gray Matter
+- Go Radio
+- Goalkeeper
+- JR Ewing
 - Loma Prieta *
 - Second Story Window * 
-- At The Drive In
-- Go Radio
-- Ghosts and Vodka
-- Goalkeeper
+- SeeYouSpaceCowboy
+- Stirling Says
+- The Blood Brothers
 - Three Days Grace
 
 </div>
