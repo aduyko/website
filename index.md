@@ -5,7 +5,7 @@ nav: blog
 permalink: /
 ---
 
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
   <div class="project">
     <h1>
       <a href="{{ post.url }}">{{ post.title }}</a>

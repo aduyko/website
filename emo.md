@@ -2,16 +2,18 @@
 layout: page
 title: Emo/Screamo/Post-Hardcore
 nav: emo
+description: "Updated 5/8/21"
 permalink: /emo/
+
 ---
 
 <div markdown="1">
-### Updated 9/20/20
 
-Emo is hard to really pin down but the best description I've ever read has been "Indie Punk"  
-Bands are ranked based on my favorite album of theirs but there are some exceptions  
-I don't pay a lot of attention to lyrics  
-Bands are alphabetical within a tier  
+Here's what I think of every single emo/emo-adjacent band. Emo is hard to really pin down as a genre but the best description I've seen has been "Indie Punk." This is obviously a subjective list, but I think it's worth mentioning that I buy into Dylan of 100 gecs' music rating metric:
+
+> Dylan’s metric for what is a good song is so great. You can be like, “I don’t know if I love that song” or whatever. And Dylan’s like, “if you were listening to this on a huge sound system and your friend made it and you were hearing it, you wouldn't be like, ‘wow, this is great?’”
+
+If any of my friends were in any of these bands I would think it was the best music on Earth.
 
 Tiers are:  
 S: "This is incredible" has crossed my mind while listening to these bands or they have otherwise moved me in some way  
@@ -25,6 +27,7 @@ F: Reserved for music that I think is poisonous to listen to
 - Breakwater
 - Bright Eyes
 - Burial Etiquette
+- Gospel
 - Joyce Manor
 - Marietta
 - SPORT
@@ -32,6 +35,8 @@ F: Reserved for music that I think is poisonous to listen to
 
 ## A
 <hr>
+- Asthenia (JP)
+- Braid
 - Cursive
 - Dads
 - Don Martin 3
@@ -49,6 +54,7 @@ F: Reserved for music that I think is poisonous to listen to
 - niiice.
 - nouns
 - Origami Angel
+- Rookie Card
 - Small Brown Bike
 - Sonic Sea Turtles
 - Taking Back Sunday
@@ -60,7 +66,6 @@ F: Reserved for music that I think is poisonous to listen to
 - Anything is Everything
 - Backbrace
 - Blowout **
-- Braid
 - Camp Trash
 - Camping in Alaska
 - Cap'n Jazz
@@ -80,13 +85,13 @@ F: Reserved for music that I think is poisonous to listen to
 - Knope
 - Lemuria
 - Medoed
+- Moss Icon
 - Panic! At the Disco **
 - Pet Symmetry
 - Policy of Three
 - Pour Me Another
 - PUP
 - Robo Pumpkin
-- Rookie Card
 - Spraynard
 - Sunny Day Real Estate
 - Ted Nguyent
@@ -104,6 +109,7 @@ F: Reserved for music that I think is poisonous to listen to
 - Guitar Fight from Fooly Cooly
 - Hot Mulligan
 - Il Mare di Ross
+- Michael Cera Palin
 - Navio Forge
 - Papayer
 - Pianos Become the Teeth
@@ -113,13 +119,13 @@ F: Reserved for music that I think is poisonous to listen to
 - Texas Is The Reason
 - The Promise Ring
 - The Starting Line
+- Tigers Jaw
 - Time Spent Driving
 - You Blew It!
 
 ## F
 <hr>
 - A Great Big Pile of Leaves
-- Michael Cera Palin
 - Oolong
 - Snowing
 
@@ -149,7 +155,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Angel Hair
 - Antioch Arrow
 - Armor for Sleep -
-- Asthenia (JP)
 - Balance and Composure
 - Battalion of Saints
 - Beefeater
@@ -166,6 +171,7 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Castevet
 - Ceres
 - Charmer
+- Cheap Haircuts
 - Chess Boxing
 - Chisel * 
 - Christie Front Drive
@@ -216,7 +222,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Garden Variety
 - Gleemer
 - GOMMA
-- Gospel
 - Grumpster
 - Halos for Martyrs
 - Have Mercy
@@ -278,7 +283,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Modern Baseball
 - Mohinder
 - Mom Jeans.
-- Moss Icon * 
 - Never Shout Never
 - New Found Glory * 
 - Northstar
@@ -387,7 +391,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - This Summer
 - Thursday
 - Tibetan Pop Stars
-- Tigers Jaw
 - Tigers!
 - Title Fight
 - Tommy Boys
@@ -404,8 +407,8 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Wow, Owls!
 - You Me at Six
 - YOUTHCARE
-- Пекинский Велосипед
 - даша онзероад
+- Пекинский Велосипед
 
 # Honorable Mentions
 

@@ -274,3 +274,8 @@ hr {
   }
   /* content end */
 }
+
+/* Substack stuff */
+.captioned-image-container > figure > a > img {
+  max-width: 100% !important
+}

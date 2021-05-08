@@ -18,4 +18,4 @@
 - washing meat
 - pat smear wikipedia nirvana talk
 - the iportance of dental care to romance
-- do you ever lift up your head while walking outside and feel two inches shorter
+- ambient music - what is the message - minotaur shock
