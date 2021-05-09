@@ -9,5 +9,5 @@ Imported from [substack](https://andriy.substack.com/p/danzig-sings-elvis) so th
 
 ----------
 
-{% include substack_posts/31990496.danzig-sings-elvis.html%}
+{% include substack_posts/31990496.danzig-sings-elvis.html %}
 
