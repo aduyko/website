@@ -39,6 +39,7 @@ F: Reserved for music that I think is poisonous to listen to
 - Braid
 - Cursive
 - Dads
+- Dollar Signs
 - Don Martin 3
 - Eldritch Anisette
 - Funeral Diner
@@ -54,15 +55,20 @@ F: Reserved for music that I think is poisonous to listen to
 - niiice.
 - nouns
 - Origami Angel
+- OWLS
+- Relient K
 - Rookie Card
 - Small Brown Bike
 - Sonic Sea Turtles
 - Taking Back Sunday
+- Tenue
+- worst party ever
 - Yaphet Kotto
 
 ## B
 <hr>
 - ...Who Calls So Loud
+- Algernon Cadwallader
 - Anything is Everything
 - Backbrace
 - Blowout **
@@ -72,6 +78,7 @@ F: Reserved for music that I think is poisonous to listen to
 - Chinese Football
 - Coheed and Cambria **
 - Common Sage
+- Crash of Rhinos
 - Desaparecidos
 - Dogleg
 - Elephant Jake
@@ -80,14 +87,18 @@ F: Reserved for music that I think is poisonous to listen to
 - Free Throw
 - Grade
 - Heart to Gold
+- Home Is Where
 - I Hate Sex
 - Indian Summer
 - Knope
 - Lemuria
+- Lincoln
 - Medoed
 - Moss Icon
+- Nate Dionne
 - Panic! At the Disco **
 - Pet Symmetry
+- Piebald
 - Policy of Three
 - Pour Me Another
 - PUP
@@ -96,13 +107,18 @@ F: Reserved for music that I think is poisonous to listen to
 - Sunny Day Real Estate
 - Ted Nguyent
 - The Early November
+- The Regrets
+- Title Fight
 - Touche Amore
+- Weatherday
+- Wow, Owls!
 
 ## C
 <hr>
 - American Football
 - Bird Bone
 - Decay
+- empire! empire! (i was a lonely estate)
 - Evergreen
 - Franklin
 - Funeral for a Friend
@@ -110,10 +126,12 @@ F: Reserved for music that I think is poisonous to listen to
 - Hot Mulligan
 - Il Mare di Ross
 - Michael Cera Palin
+- Mineral
 - Navio Forge
 - Papayer
 - Pianos Become the Teeth
 - Pictures of Vernon
+- Remo Drive
 - Rites of Spring
 - Sympathy Card
 - Texas Is The Reason
@@ -145,7 +163,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Age Sixteen
 - Alas
 - Alexisonfire
-- Algernon Cadwallader
 - All Birds Are Bad
 - Amanda Woodward
 - Amber Inn
@@ -182,7 +199,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Cling to Youth
 - Cold Room Heady
 - Copeland
-- Crash of Rhinos
 - Crumb
 - CSTVT
 - Current
@@ -200,7 +216,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Elemantra
 - Elliott
 - Embrace
-- empire! empire! (i was a lonely estate)
 - Ethel Meserve
 - Everyone Everywhere
 - Fakeholder
@@ -227,7 +242,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Have Mercy
 - Hawthorne Heights
 - Hey Mercedes
-- Home is Where
 - Hoover
 - Hop Along
 - Hot Cross
@@ -277,7 +291,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Midtown
 - Mighty Ships
 - milesmorales
-- Mineral
 - Minor Acts of Cannibalism
 - Minus the Bear
 - Modern Baseball
@@ -298,14 +311,12 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Oso Oso
 - Overo
 - Owen
-- OWLS
 - Pageninetynine * 
 - Paramore
 - Pedro the Lion
 - Penfold
 - Petal
 - Photo Fire
-- Piebald
 - Pinegrove
 - Piri Reis
 - Pity Sex * 
@@ -320,7 +331,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Rasputin's Secret Police
 - rawrXD
 - Reggie and the Full Effect
-- Relient K
 - Retirement Party
 - reveries
 - Riley!
@@ -392,7 +402,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - Thursday
 - Tibetan Pop Stars
 - Tigers!
-- Title Fight
 - Tommy Boys
 - Turnover
 - twenty one pilots
@@ -403,8 +412,6 @@ I'm particularly interested in anything that has a * but there are bands I'm int
 - We Are The Union
 - White Lung
 - Witch Hunt
-- worst party ever
-- Wow, Owls!
 - You Me at Six
 - YOUTHCARE
 - даша онзероад
@@ -416,6 +423,7 @@ Emo tangential bands that often get lumped in with emo or were otherwise influen
 
 - Soulside
 - Weezer
+- Vitreous Humor
 
 # Other Mentions
 
