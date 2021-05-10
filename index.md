@@ -24,4 +24,6 @@ permalink: /
   ---
   {% include spacer.html %}
   {% endif %}
+  ---
+  See more posts in the [full archive](/archive)
 {% endfor %}
