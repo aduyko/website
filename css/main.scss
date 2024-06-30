@@ -29,14 +29,14 @@ body{
   color: #2D2427;
   text-align: center;
   font-family: roboto,arial,sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 300;
   font-style: normal;
-  line-height: 24px;
+  line-height: 27px;
   margin: 0;
 }
 #body-wrapper{
-  max-width: 1000px;
+  max-width: 80%;
   margin: auto;
 }
 /* body end */
@@ -57,13 +57,13 @@ a img{
 }
 h1,h2,.heading {
   font-family: roboto-slab,roboto,arial,sans-serif;
-  font-size: 34px;
-  line-height: 40px;
+  font-size: 38px;
+  line-height: 44px;
   font-weight: 400;
 }
 h2 {
-  font-size: 28px;
-  line-height: 30px;
+  font-size: 32px;
+  line-height: 40px;
 }
 blockquote {
   font-style: italic;
@@ -73,7 +73,8 @@ blockquote {
 /* header start */
 #header{
   background-color: white;
-  width: 220px;
+  width: 20%;
+  min-width: 220px;
   height: 100%;
   top: 0;
   bottom: 0;
@@ -87,52 +88,54 @@ blockquote {
   width: 160px;
 }
 #name{
-  font-size: 26px;
+  font-size: 28px;
   font-weight: bold;
 }
 #nav{
   width: 70%;
   margin: auto;
   text-align: left;
-  font-size: 15px;
+  font-size: 18px;
 }
 #nav ul{
   margin: 0;
   padding: 0;
-  padding-bottom: 20px;
+  padding-bottom: 28px;
 }
 #nav ul li{
   list-style-type: none;
   margin: 0 3%;
 }
 #divider{
-  margin-left: 220px;
-  width: 0px;
+  width: 20%;
+  min-width:220px;
   height: 100%;
   position: fixed;
-  border-left: 1px dashed #CC667D;
+  border-right: 1px dashed #CC667D;
   overflow: hidden;
+  z-index:-1;
 }
 /* header end */
 
 /* content start */
 #content-wrapper{
-  padding-left: 220px;
+  margin-left: max(220px, 20%);
+  padding-left: 5%;
   padding-top: 10px;
   padding-bottom: 25px;
 }
 #content{
-  width: 600px;
+  width: min(600px, 75%);
   text-align: left;
   padding: 35px 50px;
 }
 .desc .title{
   margin-bottom: 10px;
 }
-h1 > .posted-on {
-  font-size: 12px;
+.posted-on {
+  font-size: 16px;
   color: #2D2427;
-  line-height: 16px;
+  line-height: 22px;
   font-weight: light;
 }
 .inline-title {
@@ -143,8 +146,11 @@ h1 > .posted-on {
 .links {
   float:right;
 }
+.project:first-of-type {
+  padding-top: 24px;
+}
 .project {
-  padding-bottom: 14px;
+  padding-top: 96px;
 }
 #content p:first-of-type {
   padding-top: 0px;
@@ -167,8 +173,8 @@ hr {
 
 @media screen and (max-width: 640px) {
  /* text start */
-  a{
-  }
+  // a{
+  // }
   /* text end */
 
   /* header start */
@@ -199,27 +205,27 @@ hr {
     width: 90%;
     margin: auto;
     text-align: center;
-    font-size: 14px;
+    font-size: 18px;
     margin-top: 6px;
   }
   #nav ul{
     margin: auto;
     padding: 0;
-    float: right;
+    float: left;
     width: 50%;
   }
   #nav ul#contact{
-    float: left;
+    float: right;
     width: 50%;
   }
   #nav ul li{
     text-align: left;
     list-style-type: none;
-    margin: 0;
+    margin: 3%;
   }
   #nav ul#contact li{
     float: none;
-    margin: auto;
+    margin: 3%;
     width: auto;
   }
   #nav:before,
@@ -235,6 +241,7 @@ hr {
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 30px;
+    margin-left: 0px;
   }
   #content{
     margin-left: 0%;
@@ -249,7 +256,7 @@ hr {
   .desc > h1 {
     padding-right: 15px;
   }
-  .project: first-of-type {
+  .project:first-of-type {
     padding-top: 0px;
   }
   .project {
